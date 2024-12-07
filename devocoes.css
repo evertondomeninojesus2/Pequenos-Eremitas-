@@ -5,7 +5,6 @@ body {
   margin: 0;
   padding: 0;
   background-color: #f7f7f7;
-  text-align: center;
 }
 
 header {
@@ -34,7 +33,6 @@ article {
   width: 80%;
 }
 
-
 figure {
   margin: 0;
 }
@@ -51,5 +49,6 @@ footer {
   text-align: center;
   clear: both;
 }
+ 
 
 
