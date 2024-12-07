@@ -10,6 +10,11 @@ header {
   background-color: #f0f0f0;
   padding: 20px;
   text-align: center;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #f0f0f0;
+  padding: 20px;
 }
 
 h2 {
@@ -66,10 +71,7 @@ footer {
   clear: both;
 }.
 
-menu-hamburguer {
-  position: absolute;
-  top: 20px;
-  right: 20px;
+.menu-hamburguer {
   display: flex;
   align-items: center;
 }
@@ -106,8 +108,8 @@ menu-hamburguer {
   background-color: #f0f0f0;
   border: 1px solid #ddd;
   position: absolute;
-  top: 50px;
-  right: 0;
+  top: 60px;
+  right: 20px;
   z-index: 1;
 }
 
@@ -124,14 +126,5 @@ menu-hamburguer {
 
 .menu-hamburguer-lista a:hover {
   background-color: #ccc;
-}
-@media (max-width: 768px) {
-  .menu-hamburguer {
-    top: 10px;
-    right: 10px;
-  }
-  .menu-hamburguer-lista {
-    width: 200px;
-  }
 }
 ```
