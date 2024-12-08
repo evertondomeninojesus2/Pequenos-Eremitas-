@@ -14,6 +14,12 @@ header {
   text-align: center;
 }
 
+blockquote {
+           border: solid 3px black;
+           background-color: lightblue;
+  
+}
+
 header h1 {
   font-size: 24px;
   margin-bottom: 10px;
