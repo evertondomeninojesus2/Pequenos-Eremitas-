@@ -2,15 +2,9 @@
 
 
 body {
-  text-align: center;
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-}
-
-blockquote {
-           background-color: lightblue;
-           border: solid 3px Black;
 }
 
 header {
@@ -72,4 +66,3 @@ footer {
   text-align: center;
   clear: both;
 }.
-
