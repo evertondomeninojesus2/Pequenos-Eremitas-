@@ -7,6 +7,11 @@ body {
   padding: 0;
 }
 
+blockquote {
+           background-color: lightblue;
+           border: solid 3px Black;
+}
+
 header {
   background-color: #f0f0f0;
   padding: 20px;
