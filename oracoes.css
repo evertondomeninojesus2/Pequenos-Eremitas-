@@ -18,6 +18,7 @@ header {
 blockquote {
            border: solid 3px black;
            background-color: lightblue;
+           text-align: center;
 }
 
 header h1 {
